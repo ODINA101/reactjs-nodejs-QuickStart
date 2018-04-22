@@ -1,0 +1,44 @@
+[2018-04-22 19:00:32.197] [exthost1] [info] extension host started
+[2018-04-22 19:00:32.262] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:00:32.262] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-22 19:00:32.392] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:00:32.392] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-22 19:00:32.659] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:00:32.659] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-22 19:00:32.676] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:00:32.676] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/HookyQR.beautify-1.3.0/extension
+[2018-04-22 19:00:32.743] [exthost1] [info] ExtensionService#_doActivateExtension vscodevim.vim {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:00:32.743] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/vscodevim.vim-0.11.4/out/extension
+[2018-04-22 19:00:33.225] [exthost1] [info] eager extensions activated
+[2018-04-22 19:00:42.564] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-22 19:00:42.564] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/out/extension
+[2018-04-22 19:00:42.919] [exthost1] [info] ExtensionService#_doActivateExtension AndrewRazumovsky.vscode-styled-jsx-languageserver {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-22 19:00:42.919] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/AndrewRazumovsky.vscode-styled-jsx-languageserver-1.0.0/client/out/extension
+[2018-04-22 19:00:43.067] [exthost1] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-22 19:00:43.067] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/NuclleaR.vscode-extension-auto-import-1.4.1/out/src/extension
+[2018-04-22 19:00:48.752] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-04-22 19:00:48.752] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-04-22 19:02:02.165] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-04-22 19:02:02.165] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-04-22 19:05:07.255] [exthost1] [info] extension host started
+[2018-04-22 19:05:07.322] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:05:07.323] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-04-22 19:05:07.439] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:05:07.439] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-04-22 19:05:07.704] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:05:07.704] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-04-22 19:05:07.721] [exthost1] [info] ExtensionService#_doActivateExtension HookyQR.beautify {"startup":true,"activationEvent":"*"}
+[2018-04-22 19:05:07.721] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/HookyQR.beautify-1.3.0/extension
+[2018-04-22 19:05:07.821] [exthost1] [info] eager extensions activated
+[2018-04-22 19:05:07.824] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-04-22 19:05:07.824] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html-language-features/client/out/htmlMain
+[2018-04-22 19:05:34.662] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-22 19:05:34.662] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/out/extension
+[2018-04-22 19:05:34.884] [exthost1] [info] ExtensionService#_doActivateExtension AndrewRazumovsky.vscode-styled-jsx-languageserver {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-22 19:05:34.884] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/AndrewRazumovsky.vscode-styled-jsx-languageserver-1.0.0/client/out/extension
+[2018-04-22 19:05:34.955] [exthost1] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-04-22 19:05:34.955] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/NuclleaR.vscode-extension-auto-import-1.4.1/out/src/extension
+[2018-04-22 19:05:52.645] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-04-22 19:05:52.646] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-04-22 19:19:52.131] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css-language-features {"startup":false,"activationEvent":"onLanguage:css"}
+[2018-04-22 19:19:52.131] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css-language-features/client/out/cssMain

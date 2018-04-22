@@ -1,0 +1,38 @@
+[2018-04-22 19:00:28.981] [sharedprocess] [info] main {"machineId":"fba60a6f03b62f661d047839410f71d3236e7917f365cdb85dac48f27fb6bc38"}
+[2018-04-22 19:00:29.140] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:00:29.198] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:00:31.626] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:00:31.630] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:00:31.649] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:00:31.752] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:00:31.760] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:00:34.031] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:01:09.006] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-04-22 19:04:57.115] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:04:57.123] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:04:57.130] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:04:57.196] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:04:57.200] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:05:01.699] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:05:01.700] [sharedprocess] [info] Uninstalling extension: vscodevim.vim-0.11.4
+[2018-04-22 19:05:01.700] [sharedprocess] [info] Requesting for confirmation to uninstall extension vscodevim.vim-0.11.4
+[2018-04-22 19:05:01.700] [sharedprocess] [info] Routing dialog request to the client window:1
+[2018-04-22 19:05:02.610] [sharedprocess] [info] Scanned user extensions: 18
+[2018-04-22 19:05:02.616] [sharedprocess] [info] Successfully uninstalled extension: vscodevim.vim-0.11.4
+[2018-04-22 19:05:03.098] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:03.119] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:03.155] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:05:03.161] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:05:06.124] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:06.199] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:06.242] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:06.255] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:05:06.261] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:05:06.266] [sharedprocess] [info] Scanned system extensions: 69
+[2018-04-22 19:05:06.266] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:06.272] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:05:09.556] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:10:09.598] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:15:09.625] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:20:09.657] [sharedprocess] [info] Scanned user extensions: 17
+[2018-04-22 19:25:09.729] [sharedprocess] [info] Scanned user extensions: 17
